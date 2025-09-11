@@ -1,20 +1,42 @@
+# 👋 Hi, I'm Mercedes Warnes
+
+🎓 **Computer Engineering Student (UNSTA, Argentina)**  
+💻 Interested in **IT Support**, **Electronics**, and **Microchip Design**  
+🌍 Looking for **remote part-time opportunities** while finishing my degree  
+
+---
+
+## 🚀 Projects & Highlights
+- **Santiago Chatbot (2023):** Expert system using Dialogflow  
+- **Rescue Drone Project (2020):** Innovation Challenge UNSTA  
+- **Innovation Challenge (2024):** 2nd Place – Technological Innovation Competition  
+- **CONAIISI 2024:** Co-author of paper on AI for task analysis & student tracking  
+
+---
+
+## 🛠️ Technical Skills
+- **Programming:** Python (advanced), C#, Java, SQL, HTML  
+- **Design & Electronics:** AutoCAD, Tinkercad, Technical Drawing  
+- **Networking:** Packet Tracer, basic IT support  
+- **AI Tools:** ChatGPT, Dialogflow  
+
+---
+
+## 📂 Featured Repositories
+- [Chatbot Project](#) – (placeholder: subir tu código del chatbot o documentación)
+- [Tinkercad Circuits](#) – diseños electrónicos simulados
+- [Packet Tracer Labs](#) – topologías de red simples que creaste
+
+---
+
+## 🌐 Contact
+- 📧 Email: mercewarnes@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mercedes-warnes-71a814186/)  
+
+
+
+
 Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
 
 
 Credits:
@@ -27,4 +49,5 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
+
 		Responsive Tools (github.com/ajlkn/responsive-tools)
